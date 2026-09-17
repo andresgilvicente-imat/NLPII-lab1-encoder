@@ -1,0 +1,20 @@
+# folders
+/data/
+/saved_objects/
+/runs/
+/models/
+__pycache__/
+.vscode/
+.mypy_cache/
+/results/
+scalers/
+
+# files
+*.csv
+*.out
+*.parquet
+*.xlsx
+*.json
+*.pkl
+*.pt
+*.ini
